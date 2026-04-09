@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilyas Rahman</h1>
-<h3 align="center">🎓 BS Software Engineering Graduate (2025) | 💻 MERN Stack Developer | 🌐 Web Development Enthusiast</h3>
+<h3 align="center">🎓 BS Software Engineering Graduate (2025) | 💻 Junior MERN Stack Developer | 🌐 Web Development Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ilyas-rahman-eng&label=Profile%20views&color=0e75b6&style=flat" alt="ilyas-rahman-eng" />
